@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/clsHooks-111121/static/css/main.1a7621b7.chunk.css",
-    "main.js": "/clsHooks-111121/static/js/main.d8f6aa48.chunk.js",
-    "main.js.map": "/clsHooks-111121/static/js/main.d8f6aa48.chunk.js.map",
+    "main.css": "/clsHooks-111121/static/css/main.91c4be42.chunk.css",
+    "main.js": "/clsHooks-111121/static/js/main.9c7eb119.chunk.js",
+    "main.js.map": "/clsHooks-111121/static/js/main.9c7eb119.chunk.js.map",
     "runtime-main.js": "/clsHooks-111121/static/js/runtime-main.bb0e04ec.js",
     "runtime-main.js.map": "/clsHooks-111121/static/js/runtime-main.bb0e04ec.js.map",
     "static/js/2.49446f5b.chunk.js": "/clsHooks-111121/static/js/2.49446f5b.chunk.js",
     "static/js/2.49446f5b.chunk.js.map": "/clsHooks-111121/static/js/2.49446f5b.chunk.js.map",
     "index.html": "/clsHooks-111121/index.html",
-    "static/css/main.1a7621b7.chunk.css.map": "/clsHooks-111121/static/css/main.1a7621b7.chunk.css.map",
+    "static/css/main.91c4be42.chunk.css.map": "/clsHooks-111121/static/css/main.91c4be42.chunk.css.map",
     "static/js/2.49446f5b.chunk.js.LICENSE.txt": "/clsHooks-111121/static/js/2.49446f5b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bb0e04ec.js",
     "static/js/2.49446f5b.chunk.js",
-    "static/css/main.1a7621b7.chunk.css",
-    "static/js/main.d8f6aa48.chunk.js"
+    "static/css/main.91c4be42.chunk.css",
+    "static/js/main.9c7eb119.chunk.js"
   ]
 }
