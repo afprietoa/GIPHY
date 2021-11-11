@@ -27,6 +27,7 @@ const handleSubmit = (e) =>{
                 type="text"
                 value={inputValue}
                 onChange={handleInputChange}
+                placeholder="Search GIF"
             />
         </form>
     )
