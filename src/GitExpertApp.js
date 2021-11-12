@@ -13,7 +13,7 @@ const [ categories, setCategories] = useState (['One Punch']);
   return (
     <>
 
-      <h1 className="title-SG">Search Gifs</h1>
+      <h1 className="title-SG">GIPHY Developers</h1>
 
         <AddCategory setCategories={setCategories}/>
 
